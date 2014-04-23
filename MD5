@@ -1,4 +1,4 @@
-169d05d0d4adaa7416541d88efde9754 *DESCRIPTION
+a7be7a3f0931dd97cc72e87d7491ec1c *DESCRIPTION
 00899d74de25880360753739f5fad85a *NAMESPACE
 8959bb997cd0e166807ad8cc264ea471 *R/TFMPvalue-lazyScore.R
 1ff5291609193409c766d8328b4910ea *R/TFMPvalue-pv2sc.R
@@ -15,11 +15,11 @@ f16f8166019475491167115de82a8eda *src/ArgumentException.cpp
 def9ee124e82c1345ade0dfa9805c4c0 *src/ArgumentException.h
 267ef82c26a9c64b8ee7a8d1eb6c3833 *src/FileException.cpp
 392381c4ca3be5bf99f779c7f894ab27 *src/FileException.h
-c46963456ea109a5eb955db02478de72 *src/Matrix.cpp
-e671ec95dded79c132b517283f07e9fa *src/Matrix.h
+0b28123412f041a15c646555eeb75547 *src/Matrix.cpp
+b203da1b04df6aa0ab25bdaf2e1167b7 *src/Matrix.h
 1f207f93d290fcf844b53fa5d64ac8df *src/ParseException.cpp
 77f11be664c3a11157caa3194f8b64b1 *src/ParseException.h
-cb8a4a581aad687f3f6f4e05ecff0884 *src/TFMMain.cpp
-2ee975d36a84cb17e0806cd77518e708 *src/TFMpvalue.cpp
-aafe5c823bc00fce045a80a68e76485e *src/TFMpvalue.h
+4b0627c2f585a9caf63ca67bb6ce43aa *src/TFMMain.cpp
+8074033715ba9fddfdbd81336c989841 *src/TFMpvalue.cpp
+85073c71e95119f7f4279d21224af189 *src/TFMpvalue.h
 ca50c35b6a6028ccf24bb37a7e0bce6d *tests/runTests.R
