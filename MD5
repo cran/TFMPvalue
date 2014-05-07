@@ -1,8 +1,8 @@
-678d74dfdd5b8c400924c855db0ed2ff *DESCRIPTION
+7609868e1109a5639eb9b2719d60cbdb *DESCRIPTION
 00899d74de25880360753739f5fad85a *NAMESPACE
-8959bb997cd0e166807ad8cc264ea471 *R/TFMPvalue-lazyScore.R
-1ff5291609193409c766d8328b4910ea *R/TFMPvalue-pv2sc.R
-6c4c378c69acc60d544ad26b3428a940 *R/TFMPvalue-sc2pv.R
+410d176a2d6eb5c4a912c6d53799e3e8 *R/TFMPvalue-lazyScore.R
+7801f41dc3f90aabda366f5d671ba962 *R/TFMPvalue-pv2sc.R
+d686633ee57329cbba8dde923ee74e02 *R/TFMPvalue-sc2pv.R
 1d3cb9113e7d5aa7d4809bde0e5aedc5 *R/util.R
 c2c0089bfac865cb5c74896b6f767c5e *inst/unitTests/test_lazyScore.R
 97f2de2f8749fefe8761dbc8189edfc6 *inst/unitTests/test_pv2sc.R
